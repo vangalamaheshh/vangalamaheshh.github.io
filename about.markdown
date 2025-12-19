@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-With 12+ years of hands on experience in academic, research and clinical settings working with genomic and clinical data, I bring broad spectrum of skills ranging from,
+I’m a full-stack and data engineering leader with a hands-on approach to building systems that work in the real world — from scalable web applications to AI-driven solutions and automation pipelines. I’m passionate about solving complex technical problems, connecting technology with tangible outcomes, and continually learning along the way.
 
-1) Data Engineering - full stack web development (Angular/Python Flask/Nginx); wide variety of database technologies from traditional SQL (SQLServer, MySQL, Postgres) to graph (Neo4j) to horizontally scalable (Cassandra) databases; building microservice architecture based scalable pipelines (Docker + Beam); event-driven realtime data processing (Kafka).
+But technology alone isn’t enough. I believe the true measure of leadership is not titles or control, but the ability to empower doers, cultivate accountability, and foster a culture where innovation and integrity thrive. Having navigated challenging environments, I’ve seen how leadership can be a force multiplier of talent, and I strive to create workplaces where people can grow, contribute, and be celebrated for their work.
 
-2) Data Science - machine learning (decision trees, random forest, XGBoost using Python Scikit Learn); deep learning (Python Keras and Tensorflow).
-
-3) Dev/Ops - Kubernetes, Apache Spark + HDFS cluster deployment and management.
-
-Creative and goal oriented, I take immense pride in end-to-end automation of operational tasks and a big believer of the quote "you don't know it until you teach it to a computer".
-
-Looking forward to the opportunities to prove and enhance my leadership and technical expertise.
+I combine technical mastery with ethical leadership, advocating for environments that value both innovation and human dignity — where results come from empowered teams.
