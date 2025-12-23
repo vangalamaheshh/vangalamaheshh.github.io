@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A programming enthusiast with interest and experience in Data Engineering, Full Stack Web Development, Data Science and Clinical Informatics fields.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: mvangala 
+linkedin_username: maheshvangala 
 github_username: vangalamaheshh
 
 # Build settings
